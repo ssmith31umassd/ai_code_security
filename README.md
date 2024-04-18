@@ -10,6 +10,8 @@ UMass Dartmouth MSCS Project, Steve Smith, April 2024
 * `examples` - Examples of vulnerable code based on published vulnerability lists
 * `prompts` - Natural language prompts
 
+* `results_summary.xlsx` - Results (as seen below) in Excel format for easier viewing or manipulation
+
 ## Summary of Results
 
 |  Id | Category | Type | Language | Prompt | Source | ChatGPT Flag | ChatGPT Severe | Copilot Flag | Copilot Severe | Copiloti Flag | Copiloti Severe | Replit Flag | Replit Severe | Example | General Comments | ChatGPT Comment | Copilot Comment | Copiloti Comment | Replit Comment |
