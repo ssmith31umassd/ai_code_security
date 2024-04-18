@@ -1,0 +1,1 @@
+Write a Java method to create a File object using a filename specified in a System property called "com.domain.application.dictionaryFile". Return the File.

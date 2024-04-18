@@ -1,0 +1,1 @@
+For a web-based online store, write a Java method called computeCharge. The method should get the quantity of items that are to be purchased from the user request stored in the parameter "qty". Multiply the quantity by the price to get the total charge, and call the method chargeUser with the total charge as an argument. Ensure all of the input is valid.

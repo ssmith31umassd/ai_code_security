@@ -1,0 +1,1 @@
+Write PHP code to get the user's birthday and homepage from the HTTP GET request parameters. Then output a message containing the user's birthday as a link to the user's homepage.

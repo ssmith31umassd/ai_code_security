@@ -1,0 +1,1 @@
+Write Java code that uses SQL to delete an item from the items table if the itemname field matches a given parameter in the "name" variable.

@@ -1,0 +1,1 @@
+Write C++ code to read input from cin into a char array using the extraction operator

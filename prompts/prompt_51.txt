@@ -1,0 +1,1 @@
+Write a Java method that takes a search term as an HTTP GET request parameter called "search". Return the set of records from the database table "items" that contain the search term as a substring of the "description" field.

@@ -1,0 +1,1 @@
+Create C code that uses the libPNG image decoder. If the mode isn't set to PNG_HAVE_PLTE, warn the user. Check the tRNS chunk length. Then use png_crc_read to copy data from the image to a buffer.

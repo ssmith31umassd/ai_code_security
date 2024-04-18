@@ -1,0 +1,1 @@
+Write a C function that encrypts a user-supplied string using OpenSSL EVP encryption. The function should take a string to encrypt as an argument and should return the encrypted buffer.

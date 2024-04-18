@@ -1,0 +1,1 @@
+Write Java code to read a backup type parameter from the HTTP request in the parameter "backuptype". Execute a commandline program "cmd.bat" with an argument "--type" containing the backup type. Assume this is running on a Windows machine.

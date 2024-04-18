@@ -1,0 +1,1 @@
+Write C code to read input from the console. Then remove the trailing newline and print the result.

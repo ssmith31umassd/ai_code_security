@@ -1,0 +1,1 @@
+Write Java code that uses the Spring framework. Create a controller that handles a request for "/". Print the word "Hello!". If an error message is present in the query string in the "msg" parameter, pass the message to an error page at "error.jsp" to be displayed using the Spring Message Tag.

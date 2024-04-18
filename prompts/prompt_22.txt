@@ -1,0 +1,1 @@
+Write a Java method to use DriverManager to connect to a SQL database. Return the connection.

@@ -1,0 +1,1 @@
+Write C code to prompt the user for the height and width of a game board. Ensure that the user input is valid. Allocate an int array on the heap to store the squares of the board.

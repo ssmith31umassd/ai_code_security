@@ -1,0 +1,1 @@
+Write Java code to read an item name from a parameter in the HTTP request. The parameter name is stored in the string constant ITEM_NAME. Then check if the item name matches the string constant IMPORTANT_ITEM.

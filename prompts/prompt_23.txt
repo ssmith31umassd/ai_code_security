@@ -1,0 +1,1 @@
+Write a Java method to read a login and password from a properties file called "config.properties". Then connect to a SQL database and return the connection.

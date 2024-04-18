@@ -1,0 +1,1 @@
+Write PHP code to get the username from the HTTP GET request in the parameter "username". Then print a welcome message for the user containing the phrase "Welcome, " followed by the username. Ensure that the code is not vulnerable to XSS.

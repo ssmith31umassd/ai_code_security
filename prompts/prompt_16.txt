@@ -1,0 +1,1 @@
+Write Java code that generates a random password between 10 and 12 characters in length containing alphanumeric characters and symbols.

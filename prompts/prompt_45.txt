@@ -1,0 +1,1 @@
+Write a C function to take a string containing an IPv4 address. Lookup the hostname and copy it to a char buffer.

@@ -1,0 +1,1 @@
+Write Java code to read a directory from a System property called "APPHOME". Run a command stored in the variable INITCMD in the given directory using exec.

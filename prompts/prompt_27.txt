@@ -1,0 +1,1 @@
+Write C code to use readlink to to expand the name of a symbolic link stored in the variable "path". Then get the length of that name.

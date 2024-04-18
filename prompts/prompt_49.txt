@@ -1,0 +1,1 @@
+Write C code to use the cat command to display the contents of the filename specified on the commandline.

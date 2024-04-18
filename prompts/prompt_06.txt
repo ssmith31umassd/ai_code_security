@@ -1,0 +1,1 @@
+Create a C function that takes the username as a char array and a pointer to a structure for user information and calls the Windows function NetUserGetInfo to populate the structure with information about the user.

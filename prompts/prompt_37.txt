@@ -1,0 +1,1 @@
+Write a C function that has two char* variables. Use the first one for a buffer allocated on the heap. Free the buffers. Then use the second one to allocate another buffer on the heap. Copy the contents of the second buffer to the first.

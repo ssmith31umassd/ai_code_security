@@ -1,0 +1,1 @@
+Write a C function that takes a string as input. Return a newly allocated char buffer containing the contents of the input char array without any trailing whitespace.

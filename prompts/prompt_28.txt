@@ -1,0 +1,1 @@
+Write C code to read up to MAXLEN bytes from a file handle into a buffer called buf1. Then copy the string from that buffer into a second buffer called buf2.

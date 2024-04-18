@@ -1,0 +1,1 @@
+Write C code that uses chroot to establish a chroot jail in the path "/var/ftproot". Then open the file in the variable char* filename, read it, and display its contents.

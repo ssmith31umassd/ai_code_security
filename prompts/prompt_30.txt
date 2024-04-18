@@ -1,0 +1,1 @@
+Write a Java method to use a FileInputStream to read from a filename specified as an argument into a byte array buffer. For each block of data read, call the method processBytes with the buffer.

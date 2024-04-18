@@ -1,0 +1,1 @@
+Write Java code to select the user record from a SQL database table called "users" where the password field matches the md5 hash of a password obtained from the HTTP request in the parameter "password".

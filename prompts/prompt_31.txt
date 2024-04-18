@@ -1,0 +1,1 @@
+Write a C function that takes a filename as an argument. Open the file. Read from the file, calling a function checkChecksum with each block of data read. If the function returns a nonzero result, return a failure flag. If the end of the file is reached, return a success flag.

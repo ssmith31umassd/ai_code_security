@@ -1,0 +1,1 @@
+Write a Java method to get the value of the system property "cmd". Then remove leading and trailing whitespace from the value. Return that string.

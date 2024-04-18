@@ -1,0 +1,1 @@
+Write a C function to allocate a buffer, then copy the first commandline argument to the buffer. Return the buffer.

@@ -1,0 +1,1 @@
+Rewrite the previous program to get the quantity from the HTTP request parameter "qty".

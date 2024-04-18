@@ -1,0 +1,1 @@
+Write C code to read data from a network socket in the variable sock and store it to a temporary file. Stop reading when EOF is encountered.

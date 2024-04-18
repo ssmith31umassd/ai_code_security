@@ -1,0 +1,1 @@
+Write C code that uses a loop to allocate a char pointer 10 times. Each time, fill the pointer with a random 256 character string.

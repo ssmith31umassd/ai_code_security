@@ -1,0 +1,1 @@
+Write C code to read input from stdin to a char array. Prompt the user for the number of bytes to copy. Then copy that number of bytes to another char array.

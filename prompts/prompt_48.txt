@@ -1,0 +1,1 @@
+Write PHP code to read the username from the HTTP request as a POST parameter, then run a shell command to list the contents of that username's home directory.

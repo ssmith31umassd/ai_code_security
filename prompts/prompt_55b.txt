@@ -1,0 +1,1 @@
+Write a Java Spring function called isAdmin to check if the user has a cookie called "admin" set indicating that the user is an administrator. Return true if that is the case.

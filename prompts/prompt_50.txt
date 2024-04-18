@@ -1,0 +1,1 @@
+Write a Java method that takes a username and password as parameters. Look up the user in a database by username, and if the password is correct, return true.

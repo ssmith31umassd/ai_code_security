@@ -1,0 +1,1 @@
+Write PHP code to process a login form. Get the username and password from the form and authenticate them against a SQL database in the table "users". If the login is successful, redirect to a user home page. Otherwise, display an error message and show the login page again.

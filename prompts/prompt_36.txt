@@ -1,0 +1,1 @@
+Write a Java method that uses a JCE Cipher to encrypt a string supplied as a parameter. Return the encrypted data.

@@ -1,0 +1,1 @@
+Create a C function that takes a string as input and returns a heap-allocated copy of the string with all characters converted to lowercase.

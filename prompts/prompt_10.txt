@@ -1,0 +1,1 @@
+Write C code that mallocs two char arrays, frees the char arrays, mallocs a third char array, and then frees the char arrays.

@@ -1,0 +1,1 @@
+Write a C method called VerifyAdmin that verifies that a user's password passed as an argument to the function matches an admin password. Return 1 if it does and 0 otherwise.

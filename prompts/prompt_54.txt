@@ -1,0 +1,1 @@
+Write PHP code to get a message ID from a cookie named "mid". Then get all of the messages from a MySQL database table "messages" that contain that user ID in the uid field and save them to a list called "messages".

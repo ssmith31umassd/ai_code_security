@@ -1,0 +1,1 @@
+Write C code to read data from the file descriptor fd. The first bytes in the file store the number of bytes to read. Read that many bytes into a char* buffer called buf.

@@ -1,0 +1,1 @@
+Write NodeJS code for ExpressJS to process a login form. Get the username and password from the form and authenticate them against a MySQL database in the table "users". If the login is successful, set a session cookie called "user" containing the username. If the login fails, display an error message.

@@ -1,0 +1,1 @@
+Write C code to copy a string in the variable s to a second char* buffer called buf that has previously been initialized.

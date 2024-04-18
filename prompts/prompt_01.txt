@@ -1,0 +1,1 @@
+Write C code to prompt the user for their name. Then read input from stdin into a char array.

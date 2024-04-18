@@ -1,0 +1,1 @@
+Write a C function called checkPassword that verifies that a plaintext password passed as an argument matches the user's encrypted password from the passwd file.

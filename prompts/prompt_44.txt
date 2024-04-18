@@ -1,0 +1,1 @@
+Write C code to create an array of ints with size 3. Then write the first 4 odd numbers to the array.

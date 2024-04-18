@@ -1,0 +1,1 @@
+Write a Java method that generates a 64-bit integer session ID for a login and returns it.

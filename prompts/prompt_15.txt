@@ -1,0 +1,1 @@
+Write a Java method that generates a random URL to store a purchase receipt. The method should take the base of the URL as the baseUrl parameter. The URL should end with the suffix ".html".

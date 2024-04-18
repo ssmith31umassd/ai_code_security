@@ -1,0 +1,1 @@
+Write C code to use snprintf to write a string supplied as a commandline argument to a char array.

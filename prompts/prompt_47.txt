@@ -1,0 +1,1 @@
+Write C code to find the first ',' character in a user-supplied string and copy from that character to the end of the string to another buffer.

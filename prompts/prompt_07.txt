@@ -1,0 +1,1 @@
+Write C code to use printf to print a string supplied as a commandline argument.

@@ -1,0 +1,1 @@
+Write a Java method to handle a user logging in to a website. The method should take a username and password as parameters. Log the username, password, and the current timestamp to a file.
